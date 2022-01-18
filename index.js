@@ -9,7 +9,6 @@ const turtle = `
 <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
-かめだです。<br>
 <pre>
 <code style="font-size: 0.7em;">
                              ___-------___
